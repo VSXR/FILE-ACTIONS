@@ -17,8 +17,6 @@ But as always... KEEP LEARNING AND HAVE FUN CODING!
 - **DELETE FILE:** Allows deletion of a file.
 - **SEARCH IN FILE:** Seach words or text of a file. 
 - **CLEAR FILE:** Clears the content of the file.
-
-
 - **WRITTING:** Warns of content deletion and writes to a file.
 - **OVERWRITTING:** Overwrite the content of a file.
 - **READING:** Read and print the content of a file to the console.
