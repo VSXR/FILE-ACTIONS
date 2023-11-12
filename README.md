@@ -12,11 +12,15 @@ But as always... KEEP LEARNING AND HAVE FUN CODING!
 ## Overview
 
 - **MENU:** display the different options that the program has.
-- **Create New File:** Functionality to create a new file.
-- **Delete File:** Allows deletion of a file.
-- **Reading:** Read and print the content of a file to the console.
-- **Writing:** Warns of content deletion and writes to a file.
-- **Overwriting:** Overwrite the content of a file.
+
+- **CREATE NEW FILE:** Functionality to create a new file.
+- **DELETE FILE:** Allows deletion of a file.
+- **SEARCH IN FILE:** Seach words or text of a file. 
+- **CLEAR FILE:** Clears the content of the file.
+
+- **WRITTING:** Warns of content deletion and writes to a file.
+- **OVERWRITTING:** Overwrite the content of a file.
+- **READING:** Read and print the content of a file to the console.
 
 ## Usage
 
